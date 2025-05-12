@@ -1,0 +1,7 @@
+streamlit
+Pillow
+boto3
+python-dotenv
+openai
+faiss-cpu
+numpy 
